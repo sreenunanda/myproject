@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Venkatesh-pc" name="pageobjecttestcases.LandingPageValidationsTest" tests="2" failures="0" timestamp="26 Jan 2015 13:44:43 GMT" time="138.388" errors="0">
+  <testcase name="Landingpagenavigation" time="46.913" classname="pageobjecttestcases.LandingPageValidationsTest"/>
+  <testcase name="Landingpagevalidaton" time="91.451" classname="pageobjecttestcases.LandingpageNavigationsTest"/>
+</testsuite>
