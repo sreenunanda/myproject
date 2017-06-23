@@ -33,8 +33,7 @@ public class LoginPage {
 	public void Invalidlogin() {
 		Continue.click();
 		String Actual_error = Msg_alert.getText();
-		// String Expected_error = "Please enter your username or phone
-		// number.";
+//		 String Expected_error = "Please enter your username or phone number.";
 		Assert.assertTrue(Actual_error.equals("Please enter your username or phone numbe"));
 
 	}
