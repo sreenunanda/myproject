@@ -9,7 +9,7 @@ public class SoftAsrt {
 public void soft()
 {
 	SoftAssert ast = new SoftAssert();
-	ast.assertTrue(true);
+	ast.assertTrue(true, null);
 	ast.assertAll();
 	System.out.println("qwerty");
 }
